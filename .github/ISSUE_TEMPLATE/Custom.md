@@ -1,11 +1,9 @@
 ---
-name: Meeting Notes
-about: This is where meeting notes can start
+name: Bug Report
+about: File Bugs using this Template
 
 ---
 
-## Attendance
+# START BIG
 
-## Discussion Topics
-
-## Action Items
+# GO HOME
