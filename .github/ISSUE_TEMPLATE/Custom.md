@@ -1,9 +1,7 @@
 ---
-name: Bug Report
-about: File Bugs using this Template
+name: Custom issue template
+about: Describe this issue template's purpose here.
 
 ---
 
-# START BIG
 
-# GO HOME
