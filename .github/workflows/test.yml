@@ -3,9 +3,9 @@ name: Test Run for Secrets
 on: push
 
 jobs:
-  name: Job1
-  runs-on: ubuntu-linux
-  
-  steps:
+  Test1:
+    name: Job1
+    runs-on: ubuntu-linux  
+    steps:
     - name: Access the secret
-      run: echo 'This should be the secret: ${{ secrets.MONDAY_DEPLOY_KEY }}'
+      run: echo 'This should be the secret ${{ secrets.SUPER_SECRET }}'
