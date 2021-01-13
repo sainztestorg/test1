@@ -1,6 +1,2 @@
-Jenkinsfile
-LICENSE
-README.md
-foo.txt
-test1.txt
-nop
+Test 1
+Test 2
