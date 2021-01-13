@@ -4,3 +4,6 @@ README.md
 foo.txt
 test1.txt
 var.txt
+
+Change in base branch 1
+Change in base branch 2
